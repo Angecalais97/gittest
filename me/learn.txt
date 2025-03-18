@@ -1,2 +1,11 @@
 message
+<<<<<<< HEAD
 am not afraid
+=======
+vffgdfgds
+gfgdgfdgfdg
+dfgfdgfdg
+
+sdfgdfsffggffd
+hghgfhgfhgfhfg
+>>>>>>> f87a0128a79feb6ce99296057609d72b58330c7b
